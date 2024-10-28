@@ -1,14 +1,14 @@
 # CS 465 Final
 
 ## Architecture
-
 ### Compare and contrast the types of frontend development you used in your full stack project, including Express HTML, JavaScript, and the single-page application (SPA).
 - HTML will always be the classic form of development and as far as I am concerened is the best for being able to understand what is happening. 
 - Express is rather clunky to adjust to and without proper CSS you'll be left with a pretty lackluster visual product given my choice between the systems that we worked with during this project I would chose to use Angular every time.
+- JavaScrypt took me some time to get used to but I began to enjoy working with it I feel that I will become much more inclined to work with this language in the future.
 ### Why did the backend use a NoSQL MongoDB database?
+- In MongoDB's own words "NoSQL databases were created in response to the limitations of traditional relational database technology. When compared to relational databases, NoSQL databases are often more scalable and provide superior performance." It provides a free scalable envrionment for you to work in for test cases like this project.
 
 ## Functionality
-
 ### How is JSON different from Javascript and how does JSON tie together the frontend and backend development pieces?
 
 ### Provide instances in the full stack process when you refactored code to improve functionality and efficiencies, and name the benefits that come from reusable user interface (UI) components.
