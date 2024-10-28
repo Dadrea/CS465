@@ -15,7 +15,7 @@
 
 ## Testing
 ### Methods for request and retrieval necessitate various types of API testing of endpoints, in addition to the difficulties of testing with added layers of security. Explain your understanding of methods, endpoints, and security in a full stack application.
-The method is how you do anything in full stack say you want to find something in your database you’ll need to run a GET method. Do you want to create a new entry you will need to use a PUT method, when registering new users for your site you will be using a POST method. The most strait forward of all the methods is the DELETE method which is used to remove entries.
+- Methods are how you do anything in full stack say you want to find something in your database you’ll need to run a GET method. Do you want to create a new entry you will need to use a PUT method, when registering new users for your site you will be using a POST method. The most strait forward of all the methods is the DELETE method which is used to remove entries.
 
 ## Reflection
 ### How has this course helped you in reaching your professional goals? What skills have you learned, developed, or mastered in this course to help you become a more marketable candidate in your career field?
