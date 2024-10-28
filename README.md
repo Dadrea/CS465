@@ -10,8 +10,10 @@
 
 ## Functionality
 ### How is JSON different from JavaScript and how does JSON tie together the frontend and backend development pieces?
-
+ - JSON is primarily used for formatting data while JavaScript is a programing language. They are used together effectively in environments like this when JavaScript is used to make calls to source the requested JSON information from your database.
 ### Provide instances in the full stack process when you refactored code to improve functionality and efficiencies and name the benefits that come from reusable user interface (UI) components.
+ - The time that refactoring broke my codebase.... The most invasive refactoring that occurred over the course of the project was during the final chapter in module 7 when adding to the security features I had to rebuild nearly all the code that had been implemented since the introduction of the Angular systems. However, I was a good learning experience, and I am glad that I fought though it to the end.
+
 
 ## Testing
 ### Methods for request and retrieval necessitate various types of API testing of endpoints, in addition to the difficulties of testing with added layers of security. Explain your understanding of methods, endpoints, and security in a full stack application.
