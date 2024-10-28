@@ -3,7 +3,8 @@
 ## Architecture
 
 ### Compare and contrast the types of frontend development you used in your full stack project, including Express HTML, JavaScript, and the single-page application (SPA).
-
+- HTML will always be the classic form of development and as far as I am concerened is the best for being able to understand what is happening. 
+- Express is rather clunky to adjust to and without proper CSS you'll be left with a pretty lackluster visual product given my choice between the systems that we worked with during this project I would chose to use Angular every time.
 ### Why did the backend use a NoSQL MongoDB database?
 
 ## Functionality
